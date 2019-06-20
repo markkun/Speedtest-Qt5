@@ -96,7 +96,7 @@ Window {
                 text: "Input a remote resource URL to start the speedtest"
             }
             Text {
-                text: "You can use on of the following examples:"
+                text: "You can use one of the following examples:"
             }
 
             Text {
